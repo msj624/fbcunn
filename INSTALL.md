@@ -55,6 +55,7 @@ Install Folly, fbthrift, thpp and fblualib
 ============================================
 ```bash
 curl -sk https://raw.githubusercontent.com/soumith/fblualib/master/install_all.sh | bash -e
+curl -sk https://raw.githubusercontent.com/facebook/fblualib/master/install_all.sh | bash -e
 ```
 
 Install fbcunn
